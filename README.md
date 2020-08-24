@@ -5,4 +5,6 @@ ec2-spot-labs
 
 https://ec2spotworkshops.com/running-amazon-ec2-workloads-at-scale.html
 
+https://aws.amazon.com/ec2/
+
 
